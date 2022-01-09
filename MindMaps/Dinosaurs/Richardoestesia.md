@@ -1,2 +1,2 @@
 # Richardoestesia
-## Description: Named after the paleontologist Richard Estes.
+## Named after the paleontologist Richard Estes.

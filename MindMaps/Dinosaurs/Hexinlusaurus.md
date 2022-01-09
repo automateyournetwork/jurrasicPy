@@ -1,2 +1,2 @@
 # Hexinlusaurus
-## Description: Named after the Chinese professor He Xin-Lu.
+## Named after the Chinese professor He Xin-Lu.

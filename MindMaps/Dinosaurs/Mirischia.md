@@ -1,2 +1,2 @@
 # Mirischia
-## Description: Its name means "wonderful pelvis".
+## Its name means "wonderful pelvis".

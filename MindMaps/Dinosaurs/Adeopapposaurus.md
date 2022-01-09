@@ -1,2 +1,2 @@
 # Adeopapposaurus
-## Description: A close relative of Massospondylus.
+## A close relative of Massospondylus.

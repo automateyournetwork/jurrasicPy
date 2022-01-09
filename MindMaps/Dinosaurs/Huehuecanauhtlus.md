@@ -1,2 +1,2 @@
 # Huehuecanauhtlus
-## Description: Its name is Aztec for "ancient duck".
+## Its name is Aztec for "ancient duck".

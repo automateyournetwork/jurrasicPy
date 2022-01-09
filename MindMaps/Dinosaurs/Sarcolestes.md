@@ -1,2 +1,2 @@
 # Sarcolestes
-## Description: The most likely ancestor of the ankylosaurs.
+## The most likely ancestor of the ankylosaurs.

@@ -1,2 +1,2 @@
 # Brachyceratops
-## Description: A little-known ceratopsian from North America.
+## A little-known ceratopsian from North America.

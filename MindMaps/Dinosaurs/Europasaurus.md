@@ -1,2 +1,2 @@
 # Europasaurus
-## Description: The smallest sauropod ever discovered.
+## The smallest sauropod ever discovered.

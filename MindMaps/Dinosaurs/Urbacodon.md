@@ -1,2 +1,2 @@
 # Urbacodon
-## Description: This Troodon-like predator was discovered in Uzbekistan.
+## This Troodon-like predator was discovered in Uzbekistan.

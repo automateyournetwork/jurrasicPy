@@ -1,2 +1,2 @@
 # Rhoetosaurus
-## Description: A medium-sized sauropod from Down Under.
+## A medium-sized sauropod from Down Under.

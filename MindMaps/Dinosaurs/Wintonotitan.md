@@ -1,2 +1,2 @@
 # Wintonotitan
-## Description: Another new titanosaur from Australia.
+## Another new titanosaur from Australia.

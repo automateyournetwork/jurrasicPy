@@ -1,2 +1,2 @@
 # Lexovisaurus
-## Description: One of the oldest European stegosaurs.
+## One of the oldest European stegosaurs.

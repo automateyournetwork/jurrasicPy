@@ -1,2 +1,2 @@
 # Liliensternus
-## Description: One of the largest carnivores of the Triassic period.
+## One of the largest carnivores of the Triassic period.

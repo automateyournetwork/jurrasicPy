@@ -1,2 +1,2 @@
 # Tsaagan
-## Description: One of the earliest raptors yet discovered.
+## One of the earliest raptors yet discovered.

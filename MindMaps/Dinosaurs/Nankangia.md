@@ -1,2 +1,2 @@
 # Nankangia
-## Description: A recently discovered oviraptor from China.
+## A recently discovered oviraptor from China.

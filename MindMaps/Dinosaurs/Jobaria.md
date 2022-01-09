@@ -1,2 +1,2 @@
 # Jobaria
-## Description: A strange, short-tailed African sauropod.
+## A strange, short-tailed African sauropod.

@@ -1,2 +1,2 @@
 # Yulong
-## Description: The smallest oviraptor yet identified.
+## The smallest oviraptor yet identified.

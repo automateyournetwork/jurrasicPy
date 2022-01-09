@@ -1,2 +1,2 @@
 # Szechuanosaurus
-## Description: This theropod was a close relative of Sinraptor.
+## This theropod was a close relative of Sinraptor.

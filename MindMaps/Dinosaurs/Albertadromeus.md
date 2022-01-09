@@ -1,2 +1,2 @@
 # Albertadromeus
-## Description: This petite ornithopod was recently discovered in Canada.
+## This petite ornithopod was recently discovered in Canada.

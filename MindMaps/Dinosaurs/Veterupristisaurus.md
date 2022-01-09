@@ -1,2 +1,2 @@
 # Veterupristisaurus
-## Description: One of the earliest carcharodontosaurs yet identified.
+## One of the earliest carcharodontosaurs yet identified.

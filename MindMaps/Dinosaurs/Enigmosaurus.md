@@ -1,2 +1,2 @@
 # Enigmosaurus
-## Description: This "puzzle lizard" was closely related to Therizinosaurus.
+## This "puzzle lizard" was closely related to Therizinosaurus.

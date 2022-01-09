@@ -1,2 +1,2 @@
 # Charonosaurus
-## Description: This duck-billed dinosaur was much bigger than an elephant.
+## This duck-billed dinosaur was much bigger than an elephant.

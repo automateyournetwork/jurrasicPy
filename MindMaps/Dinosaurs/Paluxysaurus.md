@@ -1,2 +1,2 @@
 # Paluxysaurus
-## Description: The official Texas state dinosaur.
+## The official Texas state dinosaur.

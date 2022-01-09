@@ -1,2 +1,2 @@
 # Aorun
-## Description: A small theropod of late Jurassic Asia.
+## A small theropod of late Jurassic Asia.

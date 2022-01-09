@@ -1,2 +1,2 @@
 # Serendipaceratops
-## Description: Was this really an Australian ceratopsian?
+## Was this really an Australian ceratopsian?

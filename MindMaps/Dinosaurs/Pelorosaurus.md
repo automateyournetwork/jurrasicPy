@@ -1,2 +1,2 @@
 # Pelorosaurus
-## Description: The first sauropod ever to be discovered.
+## The first sauropod ever to be discovered.

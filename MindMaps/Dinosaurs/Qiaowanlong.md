@@ -1,2 +1,2 @@
 # Qiaowanlong
-## Description: An Asian relative of Brachiosaurus.
+## An Asian relative of Brachiosaurus.

@@ -1,2 +1,2 @@
 # Hadrosaurus
-## Description: The official state dinosaur of New Jersey.
+## The official state dinosaur of New Jersey.

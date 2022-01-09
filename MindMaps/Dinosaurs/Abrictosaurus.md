@@ -1,2 +1,2 @@
 # Abrictosaurus
-## Description: An early relative of Heterodontosaurus.
+## An early relative of Heterodontosaurus.

@@ -1,2 +1,2 @@
 # Wulagasaurus
-## Description: The earliest saurolophine hadrosaur in the fossil record.
+## The earliest saurolophine hadrosaur in the fossil record.

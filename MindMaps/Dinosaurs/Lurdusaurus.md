@@ -1,2 +1,2 @@
 # Lurdusaurus
-## Description: This ornithopod resembled a giant sloth.
+## This ornithopod resembled a giant sloth.

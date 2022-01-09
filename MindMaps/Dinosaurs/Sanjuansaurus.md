@@ -1,2 +1,2 @@
 # Sanjuansaurus
-## Description: An early theropod from South America.
+## An early theropod from South America.

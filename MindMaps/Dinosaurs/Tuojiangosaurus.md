@@ -1,2 +1,2 @@
 # Tuojiangosaurus
-## Description: One of the most well-known Chinese stegosaurs.
+## One of the most well-known Chinese stegosaurs.

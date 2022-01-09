@@ -1,2 +1,2 @@
 # Scelidosaurus
-## Description: Among the earliest of all the armored dinosaurs.
+## Among the earliest of all the armored dinosaurs.

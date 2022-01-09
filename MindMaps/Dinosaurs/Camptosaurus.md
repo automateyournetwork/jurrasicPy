@@ -1,2 +1,2 @@
 # Camptosaurus
-## Description: A close relative of Iguanodon.
+## A close relative of Iguanodon.

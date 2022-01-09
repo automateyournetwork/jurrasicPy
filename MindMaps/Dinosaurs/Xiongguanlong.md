@@ -1,2 +1,2 @@
 # Xiongguanlong
-## Description: A small, primitive tyrannosaur from Asia.
+## A small, primitive tyrannosaur from Asia.

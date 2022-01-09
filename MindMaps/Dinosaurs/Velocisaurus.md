@@ -1,2 +1,2 @@
 # Velocisaurus
-## Description: A small, speedy theropod of late Cretaceous South America.
+## A small, speedy theropod of late Cretaceous South America.

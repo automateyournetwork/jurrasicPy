@@ -1,2 +1,2 @@
 # Skorpiovenator
-## Description: This "scorpion hunter" really ate meat.
+## This "scorpion hunter" really ate meat.

@@ -1,2 +1,2 @@
 # Siamodon
-## Description: This ornithopod was recently discovered in Thailand.
+## This ornithopod was recently discovered in Thailand.

@@ -1,2 +1,2 @@
 # Beipiaosaurus
-## Description: The only known feathered therizinosaur.
+## The only known feathered therizinosaur.

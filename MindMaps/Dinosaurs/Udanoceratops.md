@@ -1,2 +1,2 @@
 # Udanoceratops
-## Description: The largest ceratopsian to run on two legs.
+## The largest ceratopsian to run on two legs.

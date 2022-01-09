@@ -1,2 +1,2 @@
 # Tazoudasaurus
-## Description: This Vulcanodon relative was one of the earliest sauropods.
+## This Vulcanodon relative was one of the earliest sauropods.

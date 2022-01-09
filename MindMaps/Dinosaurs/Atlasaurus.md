@@ -1,2 +1,2 @@
 # Atlasaurus
-## Description: This sauropod had unusually long legs.
+## This sauropod had unusually long legs.

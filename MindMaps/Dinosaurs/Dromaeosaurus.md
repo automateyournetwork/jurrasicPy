@@ -1,2 +1,2 @@
 # Dromaeosaurus
-## Description: This "running lizard" was probably covered with feathers.
+## This "running lizard" was probably covered with feathers.

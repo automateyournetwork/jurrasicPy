@@ -1,2 +1,2 @@
 # Orodromeus
-## Description: This tiny herbivore was on Troodon's dinner menu.
+## This tiny herbivore was on Troodon's dinner menu.

@@ -1,2 +1,2 @@
 # Allosaurus
-## Description: The apex predator of late Jurassic North America.
+## The apex predator of late Jurassic North America.

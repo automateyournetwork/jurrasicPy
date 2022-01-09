@@ -1,2 +1,2 @@
 # Parksosaurus
-## Description: It was once classified as a species of Thescelosaurus.
+## It was once classified as a species of Thescelosaurus.

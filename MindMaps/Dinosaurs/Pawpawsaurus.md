@@ -1,2 +1,2 @@
 # Pawpawsaurus
-## Description: This ancient nodosaur was discovered in Texas.
+## This ancient nodosaur was discovered in Texas.

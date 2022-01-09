@@ -1,2 +1,2 @@
 # Anodontosaurus
-## Description: This "toothless lizard" actually had a full set of choppers.
+## This "toothless lizard" actually had a full set of choppers.

@@ -1,2 +1,2 @@
 # Tianzhenosaurus
-## Description: This ankylosaur's skull has been spectacularly preserved.
+## This ankylosaur's skull has been spectacularly preserved.

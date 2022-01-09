@@ -1,2 +1,2 @@
 # Gondwanatitan
-## Description: Yet another titanosaur from South America.
+## Yet another titanosaur from South America.

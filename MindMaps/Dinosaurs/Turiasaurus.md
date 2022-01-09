@@ -1,2 +1,2 @@
 # Turiasaurus
-## Description: The largest dinosaur ever to be discovered in Europe.
+## The largest dinosaur ever to be discovered in Europe.

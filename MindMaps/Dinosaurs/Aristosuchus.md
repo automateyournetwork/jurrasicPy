@@ -1,2 +1,2 @@
 # Aristosuchus
-## Description: This "noble crocodile" was actually a dinosaur.
+## This "noble crocodile" was actually a dinosaur.

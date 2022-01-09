@@ -1,2 +1,2 @@
 # Ceratosaurus
-## Description: This primitive carnivore is hard to classify.
+## This primitive carnivore is hard to classify.

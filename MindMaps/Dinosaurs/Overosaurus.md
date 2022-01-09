@@ -1,2 +1,2 @@
 # Overosaurus
-## Description: This dwarf titanosaur was announced to the world in 2013.
+## This dwarf titanosaur was announced to the world in 2013.

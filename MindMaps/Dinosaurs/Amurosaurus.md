@@ -1,2 +1,2 @@
 # Amurosaurus
-## Description: The most complete hadrosaur to be discovered in Russia.
+## The most complete hadrosaur to be discovered in Russia.

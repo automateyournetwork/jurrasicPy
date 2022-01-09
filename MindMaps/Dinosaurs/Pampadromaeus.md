@@ -1,2 +1,2 @@
 # Pampadromaeus
-## Description: This "Pampas runner" was ancestral to sauropods.
+## This "Pampas runner" was ancestral to sauropods.

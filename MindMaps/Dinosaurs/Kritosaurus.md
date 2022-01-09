@@ -1,2 +1,2 @@
 # Kritosaurus
-## Description: A famous, but poorly understood hadrosaur.
+## A famous, but poorly understood hadrosaur.

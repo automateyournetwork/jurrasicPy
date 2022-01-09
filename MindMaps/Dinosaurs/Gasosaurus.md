@@ -1,2 +1,2 @@
 # Gasosaurus
-## Description: Yes, that's its real name, and no, it isn't for the reason you think.
+## Yes, that's its real name, and no, it isn't for the reason you think.

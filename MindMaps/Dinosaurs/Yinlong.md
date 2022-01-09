@@ -1,2 +1,2 @@
 # Yinlong
-## Description: This "hidden dragon" was an early ceratopsian.
+## This "hidden dragon" was an early ceratopsian.

@@ -1,2 +1,2 @@
 # Technosaurus
-## Description: This early herbivore was named after Texas Tech university.
+## This early herbivore was named after Texas Tech university.

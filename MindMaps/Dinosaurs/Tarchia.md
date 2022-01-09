@@ -1,2 +1,2 @@
 # Tarchia
-## Description: Its name means "brainy," but that may be an exaggeration.
+## Its name means "brainy," but that may be an exaggeration.

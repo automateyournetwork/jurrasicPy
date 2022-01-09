@@ -1,2 +1,2 @@
 # Alectrosaurus
-## Description: Few specimens of this "unmarried lizard" have been found.
+## Few specimens of this "unmarried lizard" have been found.

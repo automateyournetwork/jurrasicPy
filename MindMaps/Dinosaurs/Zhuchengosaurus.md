@@ -1,2 +1,2 @@
 # Zhuchengosaurus
-## Description: This hadrosaur was even bigger than Shantungosaurus.
+## This hadrosaur was even bigger than Shantungosaurus.

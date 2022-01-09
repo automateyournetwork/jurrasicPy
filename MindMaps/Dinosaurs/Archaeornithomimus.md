@@ -1,2 +1,2 @@
 # Archaeornithomimus
-## Description: A likely ancestor of Ornithomimus.
+## A likely ancestor of Ornithomimus.

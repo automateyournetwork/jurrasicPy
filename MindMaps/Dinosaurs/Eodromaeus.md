@@ -1,2 +1,2 @@
 # Eodromaeus
-## Description: Yet another ancient theropod from South America.
+## Yet another ancient theropod from South America.

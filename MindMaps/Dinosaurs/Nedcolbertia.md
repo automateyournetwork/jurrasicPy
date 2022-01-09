@@ -1,2 +1,2 @@
 # Nedcolbertia
-## Description: Named after the famous paleontologist Edwin Colbert.
+## Named after the famous paleontologist Edwin Colbert.

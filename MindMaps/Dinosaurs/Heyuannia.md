@@ -1,2 +1,2 @@
 # Heyuannia
-## Description: Yet another close relative of Oviraptor.
+## Yet another close relative of Oviraptor.

@@ -1,2 +1,2 @@
 # Spinosaurus
-## Description: This dinosaur was distinguished by the sail-like structure on its back.
+## This dinosaur was distinguished by the sail-like structure on its back.

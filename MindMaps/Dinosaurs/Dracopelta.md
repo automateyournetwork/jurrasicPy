@@ -1,2 +1,2 @@
 # Dracopelta
-## Description: This early ankylosaur was discovered in Portugal.
+## This early ankylosaur was discovered in Portugal.

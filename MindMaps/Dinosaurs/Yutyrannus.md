@@ -1,2 +1,2 @@
 # Yutyrannus
-## Description: The largest feathered tyrannosaur yet identified.
+## The largest feathered tyrannosaur yet identified.

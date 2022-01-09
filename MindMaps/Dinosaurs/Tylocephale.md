@@ -1,2 +1,2 @@
 # Tylocephale
-## Description: The tallest-domed of all the pachycephalosaurs.
+## The tallest-domed of all the pachycephalosaurs.

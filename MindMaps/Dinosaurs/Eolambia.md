@@ -1,2 +1,2 @@
 # Eolambia
-## Description: An early hadrosaur from North America.
+## An early hadrosaur from North America.

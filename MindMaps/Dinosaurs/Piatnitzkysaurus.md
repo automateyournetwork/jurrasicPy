@@ -1,2 +1,2 @@
 # Piatnitzkysaurus
-## Description: Its teeth were as sharp as its name is funny.
+## Its teeth were as sharp as its name is funny.

@@ -1,2 +1,2 @@
 # Patagosaurus
-## Description: This "Patagonian lizard" hailed from South America.
+## This "Patagonian lizard" hailed from South America.

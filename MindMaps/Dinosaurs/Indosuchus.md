@@ -1,2 +1,2 @@
 # Indosuchus
-## Description: This "Indian crocodile" was actually a dinosaur.
+## This "Indian crocodile" was actually a dinosaur.

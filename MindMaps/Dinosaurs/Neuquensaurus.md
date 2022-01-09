@@ -1,2 +1,2 @@
 # Neuquensaurus
-## Description: Was this titanosaur really a species of Saltasaurus?
+## Was this titanosaur really a species of Saltasaurus?

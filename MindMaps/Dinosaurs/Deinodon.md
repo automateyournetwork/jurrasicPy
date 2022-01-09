@@ -1,2 +1,2 @@
 # Deinodon
-## Description: This "terrible tooth" is important from a historical perspective.
+## This "terrible tooth" is important from a historical perspective.

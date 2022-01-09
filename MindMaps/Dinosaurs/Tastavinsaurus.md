@@ -1,2 +1,2 @@
 # Tastavinsaurus
-## Description: This titanosaur was discovered in Spain.
+## This titanosaur was discovered in Spain.

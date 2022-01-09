@@ -1,2 +1,2 @@
 # Diamantinasaurus
-## Description: This titanosaur was recently discovered in Australia.
+## This titanosaur was recently discovered in Australia.

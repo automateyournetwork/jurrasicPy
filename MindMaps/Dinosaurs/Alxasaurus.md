@@ -1,2 +1,2 @@
 # Alxasaurus
-## Description: An early relative of the bizarre Therizinosaurus.
+## An early relative of the bizarre Therizinosaurus.

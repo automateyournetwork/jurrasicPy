@@ -1,2 +1,2 @@
 # Agathaumas
-## Description: The first ceratopsian dinosaur ever discovered.
+## The first ceratopsian dinosaur ever discovered.

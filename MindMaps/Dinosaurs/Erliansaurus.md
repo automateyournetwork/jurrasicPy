@@ -1,2 +1,2 @@
 # Erliansaurus
-## Description: A basal therizinosaur from central Asia.
+## A basal therizinosaur from central Asia.

@@ -1,2 +1,2 @@
 # Prenoceratops
-## Description: A close relative of Leptoceratops.
+## A close relative of Leptoceratops.

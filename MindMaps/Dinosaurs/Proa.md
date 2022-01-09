@@ -1,2 +1,2 @@
 # Proa
-## Description: This ornithopod was named after its prow-shaped jaw.
+## This ornithopod was named after its prow-shaped jaw.

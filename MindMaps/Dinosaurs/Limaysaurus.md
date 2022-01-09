@@ -1,2 +1,2 @@
 # Limaysaurus
-## Description: It was once classified as a species of Rebbachisaurus.
+## It was once classified as a species of Rebbachisaurus.

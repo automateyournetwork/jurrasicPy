@@ -1,2 +1,2 @@
 # Suuwassea
-## Description: Its name is Native American for "ancient thunder".
+## Its name is Native American for "ancient thunder".

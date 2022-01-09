@@ -1,2 +1,2 @@
 # Saltasaurus
-## Description: The first armored sauropod ever to be discovered.
+## The first armored sauropod ever to be discovered.

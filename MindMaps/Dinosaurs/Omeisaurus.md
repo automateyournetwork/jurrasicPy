@@ -1,2 +1,2 @@
 # Omeisaurus
-## Description: One of the most common Chinese sauropods.
+## One of the most common Chinese sauropods.

@@ -1,2 +1,2 @@
 # Auroraceratops
-## Description: A close relative of Archaeoceratops.
+## A close relative of Archaeoceratops.

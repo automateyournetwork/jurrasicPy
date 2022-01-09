@@ -1,2 +1,2 @@
 # Gideonmantellia
-## Description: Guess what naturalist this dinosaur was named after.
+## Guess what naturalist this dinosaur was named after.

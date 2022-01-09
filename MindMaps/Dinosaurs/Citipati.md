@@ -1,2 +1,2 @@
 # Citipati
-## Description: This Mongolian theropod was a close relative of Oviraptor.
+## This Mongolian theropod was a close relative of Oviraptor.

@@ -1,2 +1,2 @@
 # Utahraptor
-## Description: Probably the biggest raptor that ever lived.
+## Probably the biggest raptor that ever lived.

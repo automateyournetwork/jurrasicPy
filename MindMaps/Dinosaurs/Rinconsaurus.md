@@ -1,2 +1,2 @@
 # Rinconsaurus
-## Description: A modestly sized titanosaur of South America.
+## A modestly sized titanosaur of South America.

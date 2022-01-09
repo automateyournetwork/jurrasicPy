@@ -1,2 +1,2 @@
 # Cetiosauriscus
-## Description: Not to be confused with the more famous Cetiosaurus.
+## Not to be confused with the more famous Cetiosaurus.

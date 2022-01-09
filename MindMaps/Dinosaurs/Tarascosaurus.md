@@ -1,2 +1,2 @@
 # Tarascosaurus
-## Description: The only known abelisaur of the northern hemisphere.
+## The only known abelisaur of the northern hemisphere.

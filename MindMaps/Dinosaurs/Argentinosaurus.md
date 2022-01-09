@@ -1,2 +1,2 @@
 # Argentinosaurus
-## Description: Possibly the largest dinosaur that ever lived.
+## Possibly the largest dinosaur that ever lived.

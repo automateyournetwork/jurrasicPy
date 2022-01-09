@@ -1,2 +1,2 @@
 # Styracosaurus
-## Description: Winner of the "most elaborate head display" competition.
+## Winner of the "most elaborate head display" competition.

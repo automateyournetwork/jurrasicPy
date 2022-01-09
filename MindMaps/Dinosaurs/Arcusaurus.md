@@ -1,2 +1,2 @@
 # Arcusaurus
-## Description: This prosauropod was recently discovered in South Africa.
+## This prosauropod was recently discovered in South Africa.

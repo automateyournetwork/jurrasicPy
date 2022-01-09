@@ -1,2 +1,2 @@
 # Sinornithosaurus
-## Description: A typical dino-bird of the early Cretaceous.
+## A typical dino-bird of the early Cretaceous.

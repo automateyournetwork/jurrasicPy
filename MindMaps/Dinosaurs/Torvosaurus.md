@@ -1,2 +1,2 @@
 # Torvosaurus
-## Description: One of the largest predators of Jurassic North America.
+## One of the largest predators of Jurassic North America.

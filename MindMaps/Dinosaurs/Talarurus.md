@@ -1,2 +1,2 @@
 # Talarurus
-## Description: This ankylosaur was discovered in the Gobi Desert.
+## This ankylosaur was discovered in the Gobi Desert.

@@ -1,2 +1,2 @@
 # Mapusaurus
-## Description: This huge carnivore was closely related to Giganotosaurus.
+## This huge carnivore was closely related to Giganotosaurus.

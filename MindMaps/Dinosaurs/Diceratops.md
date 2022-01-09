@@ -1,2 +1,2 @@
 # Diceratops
-## Description: Was this two-horned dinosaur really a specimen of Triceratops?
+## Was this two-horned dinosaur really a specimen of Triceratops?

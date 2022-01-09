@@ -1,2 +1,2 @@
 # Australodocus
-## Description: This sauropod was found in modern-day Tanzania.
+## This sauropod was found in modern-day Tanzania.

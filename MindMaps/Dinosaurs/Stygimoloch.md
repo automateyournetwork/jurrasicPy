@@ -1,2 +1,2 @@
 # Stygimoloch
-## Description: Its name means "demon from the river of death." Got your attention yet?
+## Its name means "demon from the river of death." Got your attention yet?

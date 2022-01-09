@@ -1,2 +1,2 @@
 # Deltadromeus
-## Description: An unusually speedy theropod of the middle Cretaceous.
+## An unusually speedy theropod of the middle Cretaceous.

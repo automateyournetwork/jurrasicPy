@@ -1,2 +1,2 @@
 # Zanabazar
-## Description: Named after a Buddhist spiritual leader.
+## Named after a Buddhist spiritual leader.

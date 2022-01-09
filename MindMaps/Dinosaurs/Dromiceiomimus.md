@@ -1,2 +1,2 @@
 # Dromiceiomimus
-## Description: Possibly the fastest dinosaur that ever lived.
+## Possibly the fastest dinosaur that ever lived.

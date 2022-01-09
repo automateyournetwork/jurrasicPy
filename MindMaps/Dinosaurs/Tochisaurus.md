@@ -1,2 +1,2 @@
 # Tochisaurus
-## Description: A large troodont of late Cretaceous Asia.
+## A large troodont of late Cretaceous Asia.

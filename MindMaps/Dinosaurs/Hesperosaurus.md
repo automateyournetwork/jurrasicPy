@@ -1,2 +1,2 @@
 # Hesperosaurus
-## Description: The oldest stegosaur discovered in North America.
+## The oldest stegosaur discovered in North America.

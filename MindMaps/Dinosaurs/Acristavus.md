@@ -1,2 +1,2 @@
 # Acristavus
-## Description: This early hadrosaur lacked any ornamentation on its skull.
+## This early hadrosaur lacked any ornamentation on its skull.

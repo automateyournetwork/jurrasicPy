@@ -1,2 +1,2 @@
 # Dacentrurus
-## Description: The first stegosaur ever to be described.
+## The first stegosaur ever to be described.

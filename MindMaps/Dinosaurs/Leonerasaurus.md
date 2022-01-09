@@ -1,2 +1,2 @@
 # Leonerasaurus
-## Description: This prosauropod was recently discovered in Argentina.
+## This prosauropod was recently discovered in Argentina.

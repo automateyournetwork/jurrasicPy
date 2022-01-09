@@ -1,2 +1,2 @@
 # Chaoyangsaurus
-## Description: An early ceratopsian of the late Jurassic period.
+## An early ceratopsian of the late Jurassic period.

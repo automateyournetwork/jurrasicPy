@@ -1,2 +1,2 @@
 # Panphagia
-## Description: Its name is Greek for "eats everything".
+## Its name is Greek for "eats everything".

@@ -1,2 +1,2 @@
 # Linhenykus
-## Description: This tiny dinosaur had single-clawed hands.
+## This tiny dinosaur had single-clawed hands.

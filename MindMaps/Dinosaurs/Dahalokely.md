@@ -1,2 +1,2 @@
 # Dahalokely
-## Description: A rare theropod from the island of Madagascar.
+## A rare theropod from the island of Madagascar.

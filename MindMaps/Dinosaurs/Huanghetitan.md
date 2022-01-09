@@ -1,2 +1,2 @@
 # Huanghetitan
-## Description: Yet another contender for the biggest dinosaur that ever lived.
+## Yet another contender for the biggest dinosaur that ever lived.

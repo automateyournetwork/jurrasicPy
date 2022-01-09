@@ -1,2 +1,2 @@
 # Thecocoelurus
-## Description: Is this the earliest ornithomimid in the fossil record?
+## Is this the earliest ornithomimid in the fossil record?

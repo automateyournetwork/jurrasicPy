@@ -1,2 +1,2 @@
 # Ornithopsis
-## Description: This "bird face" was actually a genus of titanosaur.
+## This "bird face" was actually a genus of titanosaur.

@@ -1,2 +1,2 @@
 # Shenzhousaurus
-## Description: A small, primitive ornithomimid from China.
+## A small, primitive ornithomimid from China.

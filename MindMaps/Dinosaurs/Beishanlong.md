@@ -1,2 +1,2 @@
 # Beishanlong
-## Description: This bird mimic weighed over half a ton.
+## This bird mimic weighed over half a ton.

@@ -1,2 +1,2 @@
 # Paranthodon
-## Description: This stegosaur was discovered over 150 years ago.
+## This stegosaur was discovered over 150 years ago.

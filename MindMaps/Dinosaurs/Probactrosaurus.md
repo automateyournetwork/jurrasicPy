@@ -1,2 +1,2 @@
 # Probactrosaurus
-## Description: An early stage in hadrosaur evolution.
+## An early stage in hadrosaur evolution.

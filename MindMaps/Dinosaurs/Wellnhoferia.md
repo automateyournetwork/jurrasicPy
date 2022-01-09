@@ -1,2 +1,2 @@
 # Wellnhoferia
-## Description: Was it really a species of Archaeopteryx?
+## Was it really a species of Archaeopteryx?

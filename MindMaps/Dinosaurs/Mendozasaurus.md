@@ -1,2 +1,2 @@
 # Mendozasaurus
-## Description: This titanosaur was ancestral to Futalognkosaurus.
+## This titanosaur was ancestral to Futalognkosaurus.

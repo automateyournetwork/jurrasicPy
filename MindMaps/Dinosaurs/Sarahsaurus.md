@@ -1,2 +1,2 @@
 # Sarahsaurus
-## Description: This prosauropod had unusually strong hands.
+## This prosauropod had unusually strong hands.

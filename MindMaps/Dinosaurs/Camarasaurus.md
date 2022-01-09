@@ -1,2 +1,2 @@
 # Camarasaurus
-## Description: The most common sauropod of Jurassic North America.
+## The most common sauropod of Jurassic North America.

@@ -1,2 +1,2 @@
 # Aletopelta
-## Description: The first ankylosaur known to have lived in Mexico.
+## The first ankylosaur known to have lived in Mexico.

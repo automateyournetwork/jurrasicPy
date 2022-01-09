@@ -1,2 +1,2 @@
 # Lufengosaurus
-## Description: A common sight at Chinese natural history museums.
+## A common sight at Chinese natural history museums.

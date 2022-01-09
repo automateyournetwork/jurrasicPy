@@ -1,2 +1,2 @@
 # Abrosaurus
-## Description: A close Asian relative of Camarasaurus.
+## A close Asian relative of Camarasaurus.

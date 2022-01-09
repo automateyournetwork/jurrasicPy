@@ -1,2 +1,2 @@
 # Bravoceratops
-## Description: This ceratopsian was recently discovered in Texas.
+## This ceratopsian was recently discovered in Texas.

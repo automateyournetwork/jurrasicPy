@@ -1,2 +1,2 @@
 # Miragaia
-## Description: This stegosaur had an unusually long neck.
+## This stegosaur had an unusually long neck.

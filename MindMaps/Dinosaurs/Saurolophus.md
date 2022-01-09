@@ -1,2 +1,2 @@
 # Saurolophus
-## Description: One of the few hadrosaurs known to have lived on two continents.
+## One of the few hadrosaurs known to have lived on two continents.

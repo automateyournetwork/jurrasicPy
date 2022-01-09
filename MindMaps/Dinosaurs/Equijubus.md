@@ -1,2 +1,2 @@
 # Equijubus
-## Description: Its name is Greek for "horse mane".
+## Its name is Greek for "horse mane".

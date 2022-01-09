@@ -1,2 +1,2 @@
 # Bruhathkayosaurus
-## Description: Was this titanosaur bigger than Argentinosaurus?
+## Was this titanosaur bigger than Argentinosaurus?

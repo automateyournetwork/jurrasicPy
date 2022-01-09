@@ -1,2 +1,2 @@
 # Nanyangosaurus
-## Description: An iguanodontid ornithopod of middle Cretaceous Asia.
+## An iguanodontid ornithopod of middle Cretaceous Asia.

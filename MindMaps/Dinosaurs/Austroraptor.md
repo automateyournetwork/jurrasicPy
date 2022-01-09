@@ -1,2 +1,2 @@
 # Austroraptor
-## Description: The largest raptor from South America.
+## The largest raptor from South America.

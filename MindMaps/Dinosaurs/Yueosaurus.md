@@ -1,2 +1,2 @@
 # Yueosaurus
-## Description: This basal ornithopod was discovered by construction workers.
+## This basal ornithopod was discovered by construction workers.

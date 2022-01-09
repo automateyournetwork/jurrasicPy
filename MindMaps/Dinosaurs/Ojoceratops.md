@@ -1,2 +1,2 @@
 # Ojoceratops
-## Description: A very close relative of Triceratops.
+## A very close relative of Triceratops.

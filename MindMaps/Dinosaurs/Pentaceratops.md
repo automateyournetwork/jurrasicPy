@@ -1,2 +1,2 @@
 # Pentaceratops
-## Description: This "five-horned" herbivore really had only three.
+## This "five-horned" herbivore really had only three.

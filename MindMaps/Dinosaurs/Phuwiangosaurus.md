@@ -1,2 +1,2 @@
 # Phuwiangosaurus
-## Description: This titanosaur was discovered in modern-day Thailand.
+## This titanosaur was discovered in modern-day Thailand.

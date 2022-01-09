@@ -1,2 +1,2 @@
 # Yizhousaurus
-## Description: The earliest intact sauropod yet discovered.
+## The earliest intact sauropod yet discovered.

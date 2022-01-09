@@ -1,2 +1,2 @@
 # Baryonyx
-## Description: You wouldn't want to clip this dinosaur's claws.
+## You wouldn't want to clip this dinosaur's claws.

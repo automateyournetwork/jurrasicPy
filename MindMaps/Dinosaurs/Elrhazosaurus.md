@@ -1,2 +1,2 @@
 # Elrhazosaurus
-## Description: Once classified as a species of Valdosaurus.
+## Once classified as a species of Valdosaurus.

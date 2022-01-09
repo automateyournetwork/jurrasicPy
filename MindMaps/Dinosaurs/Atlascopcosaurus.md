@@ -1,2 +1,2 @@
 # Atlascopcosaurus
-## Description: Named after a manufacturer of digging equipment.
+## Named after a manufacturer of digging equipment.

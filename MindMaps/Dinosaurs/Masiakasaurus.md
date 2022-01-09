@@ -1,2 +1,2 @@
 # Masiakasaurus
-## Description: A bizarre, buck-toothed predator of the late Cretaceous.
+## A bizarre, buck-toothed predator of the late Cretaceous.

@@ -1,2 +1,2 @@
 # Stokesosaurus
-## Description: Some experts think this was the earliest tyrannosaur.
+## Some experts think this was the earliest tyrannosaur.

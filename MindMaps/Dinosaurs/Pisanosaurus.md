@@ -1,2 +1,2 @@
 # Pisanosaurus
-## Description: One of the earliest known ornithischian dinosaurs.
+## One of the earliest known ornithischian dinosaurs.

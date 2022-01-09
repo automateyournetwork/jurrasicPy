@@ -1,2 +1,2 @@
 # Zhejiangosaurus
-## Description: The first identified nodosaur from Asia.
+## The first identified nodosaur from Asia.

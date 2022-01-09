@@ -1,2 +1,2 @@
 # Brachytrachelopan
-## Description: This sauropod had an unusually short neck.
+## This sauropod had an unusually short neck.

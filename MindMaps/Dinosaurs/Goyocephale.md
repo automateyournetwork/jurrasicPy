@@ -1,2 +1,2 @@
 # Goyocephale
-## Description: A primitive bonehead from Asia.
+## A primitive bonehead from Asia.

@@ -1,2 +1,2 @@
 # Koreanosaurus
-## Description: Guess what country this ornithopod was discovered in.
+## Guess what country this ornithopod was discovered in.

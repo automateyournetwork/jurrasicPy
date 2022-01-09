@@ -1,2 +1,2 @@
 # Parvicursor
-## Description: One of the smallest dinosaurs yet identified.
+## One of the smallest dinosaurs yet identified.

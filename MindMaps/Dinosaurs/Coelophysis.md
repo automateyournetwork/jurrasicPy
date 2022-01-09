@@ -1,2 +1,2 @@
 # Coelophysis
-## Description: One of the most ancient dinosaurs ever to roam the earth.
+## One of the most ancient dinosaurs ever to roam the earth.

@@ -1,2 +1,2 @@
 # Shaochilong
-## Description: Its name is Chinese for "shark-toothed dragon".
+## Its name is Chinese for "shark-toothed dragon".

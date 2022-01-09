@@ -1,2 +1,2 @@
 # Deinonychus
-## Description: One of the most fearsome raptors of the Cretaceous period.
+## One of the most fearsome raptors of the Cretaceous period.

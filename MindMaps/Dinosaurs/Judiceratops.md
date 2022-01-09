@@ -1,2 +1,2 @@
 # Judiceratops
-## Description: The earliest Chasmosaurus ancestor yet identified.
+## The earliest Chasmosaurus ancestor yet identified.

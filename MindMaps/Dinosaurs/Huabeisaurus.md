@@ -1,2 +1,2 @@
 # Huabeisaurus
-## Description: A titanosaur from northern China.
+## A titanosaur from northern China.

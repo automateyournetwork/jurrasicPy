@@ -1,2 +1,2 @@
 # Kileskus
-## Description: Yet another "basal" tyrannosaur from central Asia.
+## Yet another "basal" tyrannosaur from central Asia.

@@ -1,2 +1,2 @@
 # Texacephale
-## Description: This Texan pachycephalosaur was named in 2010.
+## This Texan pachycephalosaur was named in 2010.

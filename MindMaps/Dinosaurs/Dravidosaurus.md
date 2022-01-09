@@ -1,2 +1,2 @@
 # Dravidosaurus
-## Description: This "dinosaur" may actually have been a marine reptile.
+## This "dinosaur" may actually have been a marine reptile.

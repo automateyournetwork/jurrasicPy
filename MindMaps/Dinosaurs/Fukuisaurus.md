@@ -1,2 +1,2 @@
 # Fukuisaurus
-## Description: This ornithopod was discovered in Japan.
+## This ornithopod was discovered in Japan.

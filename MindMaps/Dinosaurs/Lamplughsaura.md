@@ -1,2 +1,2 @@
 # Lamplughsaura
-## Description: This early sauropod was discovered in India.
+## This early sauropod was discovered in India.

@@ -1,2 +1,2 @@
 # Saurornitholestes
-## Description: A close cousin of Velociraptor.
+## A close cousin of Velociraptor.

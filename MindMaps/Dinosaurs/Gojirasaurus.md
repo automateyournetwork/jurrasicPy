@@ -1,2 +1,2 @@
 # Gojirasaurus
-## Description: This early predator was named after Godzilla.
+## This early predator was named after Godzilla.

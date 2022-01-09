@@ -1,2 +1,2 @@
 # Tianyulong
-## Description: Why did this ornithopod have feathers?
+## Why did this ornithopod have feathers?

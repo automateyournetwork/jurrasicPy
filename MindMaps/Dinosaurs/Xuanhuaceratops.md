@@ -1,2 +1,2 @@
 # Xuanhuaceratops
-## Description: An early ceratopsian of the late Jurassic.
+## An early ceratopsian of the late Jurassic.

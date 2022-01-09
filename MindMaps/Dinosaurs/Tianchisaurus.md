@@ -1,2 +1,2 @@
 # Tianchisaurus
-## Description: This dinosaur's species name honors "Jurassic Park".
+## This dinosaur's species name honors "Jurassic Park".

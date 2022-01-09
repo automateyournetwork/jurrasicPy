@@ -1,2 +1,2 @@
 # Oohkotokia
-## Description: Its name is Blackfoot for "large stone".
+## Its name is Blackfoot for "large stone".

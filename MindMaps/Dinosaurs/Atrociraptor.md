@@ -1,2 +1,2 @@
 # Atrociraptor
-## Description: This "cruel thief" wasn't as atrocious as its name implies.
+## This "cruel thief" wasn't as atrocious as its name implies.

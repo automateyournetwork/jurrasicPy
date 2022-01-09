@@ -1,2 +1,2 @@
 # Hesperonychus
-## Description: A tiny North American dinosaur.
+## A tiny North American dinosaur.

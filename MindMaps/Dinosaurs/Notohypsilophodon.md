@@ -1,2 +1,2 @@
 # Notohypsilophodon
-## Description: A rare South American ornithopod.
+## A rare South American ornithopod.

@@ -1,2 +1,2 @@
 # Santanaraptor
-## Description: Named after Brazil's Santana formation.
+## Named after Brazil's Santana formation.

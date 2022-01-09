@@ -1,2 +1,2 @@
 # Tsintaosaurus
-## Description: Also known as the "Unicorn Dinosaur".
+## Also known as the "Unicorn Dinosaur".

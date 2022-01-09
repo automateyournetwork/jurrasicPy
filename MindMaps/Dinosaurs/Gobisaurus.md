@@ -1,2 +1,2 @@
 # Gobisaurus
-## Description: An unusually large ankylosaur of central Asia.
+## An unusually large ankylosaur of central Asia.

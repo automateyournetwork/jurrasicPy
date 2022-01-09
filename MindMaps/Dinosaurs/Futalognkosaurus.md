@@ -1,2 +1,2 @@
 # Futalognkosaurus
-## Description: A very big, and very strangely named sauropod.
+## A very big, and very strangely named sauropod.

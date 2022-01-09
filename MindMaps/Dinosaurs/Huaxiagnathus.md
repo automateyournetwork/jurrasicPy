@@ -1,2 +1,2 @@
 # Huaxiagnathus
-## Description: One of the biggest dino-birds of its time.
+## One of the biggest dino-birds of its time.

@@ -1,2 +1,2 @@
 # Lessemsaurus
-## Description: Named after the popular science writer Don Lessem.
+## Named after the popular science writer Don Lessem.

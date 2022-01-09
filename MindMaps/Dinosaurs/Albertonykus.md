@@ -1,2 +1,2 @@
 # Albertonykus
-## Description: A tiny, birdlike, North American dinosaur.
+## A tiny, birdlike, North American dinosaur.

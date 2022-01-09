@@ -1,2 +1,2 @@
 # Antarctopelta
-## Description: The first dinosaur fossil ever discovered in Antarctica.
+## The first dinosaur fossil ever discovered in Antarctica.

@@ -1,2 +1,2 @@
 # Chubutisaurus
-## Description: This titanosaur was on Tyrannotitan's lunch menu.
+## This titanosaur was on Tyrannotitan's lunch menu.

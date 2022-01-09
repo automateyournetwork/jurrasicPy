@@ -1,2 +1,2 @@
 # Kol
-## Description: It's tied with Mei for "shortest dinosaur name".
+## It's tied with Mei for "shortest dinosaur name".

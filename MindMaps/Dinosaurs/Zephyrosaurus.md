@@ -1,2 +1,2 @@
 # Zephyrosaurus
-## Description: Otherwise known as the Western Wind Lizard.
+## Otherwise known as the Western Wind Lizard.

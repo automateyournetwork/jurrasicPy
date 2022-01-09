@@ -1,2 +1,2 @@
 # Rugops
-## Description: This wrinkly-faced carnivore probably fed on abandoned carcasses.
+## This wrinkly-faced carnivore probably fed on abandoned carcasses.

@@ -1,2 +1,2 @@
 # Cryptovolans
-## Description: Was this the same dinosaur as Microraptor?
+## Was this the same dinosaur as Microraptor?

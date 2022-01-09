@@ -1,2 +1,2 @@
 # Sinovenator
-## Description: This "Chinese hunter" preyed on its fellow dino-birds.
+## This "Chinese hunter" preyed on its fellow dino-birds.

@@ -1,2 +1,2 @@
 # Demandasaurus
-## Description: A poorly understood sauropod of early Cretaceous Europe.
+## A poorly understood sauropod of early Cretaceous Europe.

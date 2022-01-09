@@ -1,2 +1,2 @@
 # Lapparentosaurus
-## Description: This sauropod was discovered in Madagascar.
+## This sauropod was discovered in Madagascar.

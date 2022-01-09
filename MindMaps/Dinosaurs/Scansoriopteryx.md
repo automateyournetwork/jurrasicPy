@@ -1,2 +1,2 @@
 # Scansoriopteryx
-## Description: This early proto-bird probably lived in trees.
+## This early proto-bird probably lived in trees.

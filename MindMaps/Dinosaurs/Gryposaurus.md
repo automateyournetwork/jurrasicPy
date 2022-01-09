@@ -1,2 +1,2 @@
 # Gryposaurus
-## Description: One of the most common of the duck-billed dinosaurs.
+## One of the most common of the duck-billed dinosaurs.

@@ -1,2 +1,2 @@
 # Jainosaurus
-## Description: Named after the Indian paleontologist Sohan Lal Jain.
+## Named after the Indian paleontologist Sohan Lal Jain.

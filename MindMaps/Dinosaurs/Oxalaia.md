@@ -1,2 +1,2 @@
 # Oxalaia
-## Description: This spinosaur was recently discovered in Brazil.
+## This spinosaur was recently discovered in Brazil.

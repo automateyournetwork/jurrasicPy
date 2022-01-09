@@ -1,2 +1,2 @@
 # Rubeosaurus
-## Description: A ceratopsian dinosaur from the Two Medicine Formation.
+## A ceratopsian dinosaur from the Two Medicine Formation.

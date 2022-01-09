@@ -1,2 +1,2 @@
 # Hypsibema
-## Description: The official state dinosaur of Missouri.
+## The official state dinosaur of Missouri.

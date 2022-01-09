@@ -1,2 +1,2 @@
 # Lophorhothon
-## Description: The first dinosaur ever to be discovered in Alabama.
+## The first dinosaur ever to be discovered in Alabama.

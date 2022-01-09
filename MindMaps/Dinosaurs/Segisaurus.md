@@ -1,2 +1,2 @@
 # Segisaurus
-## Description: An early dinosaur closely related to Coelophysis.
+## An early dinosaur closely related to Coelophysis.

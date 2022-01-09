@@ -1,2 +1,2 @@
 # Elaphrosaurus
-## Description: A lightweight theropod from the late Jurassic.
+## A lightweight theropod from the late Jurassic.

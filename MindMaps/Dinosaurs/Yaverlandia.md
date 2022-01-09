@@ -1,2 +1,2 @@
 # Yaverlandia
-## Description: A classic case of mistaken dinosaur identity.
+## A classic case of mistaken dinosaur identity.

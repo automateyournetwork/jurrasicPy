@@ -1,2 +1,2 @@
 # Kentrosaurus
-## Description: A smaller, African cousin of Stegosaurus.
+## A smaller, African cousin of Stegosaurus.

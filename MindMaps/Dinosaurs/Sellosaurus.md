@@ -1,2 +1,2 @@
 # Sellosaurus
-## Description: Another early prosauropod of the Triassic period.
+## Another early prosauropod of the Triassic period.

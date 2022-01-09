@@ -1,2 +1,2 @@
 # Neimongosaurus
-## Description: A rare therizinosaur from inner Mongolia.
+## A rare therizinosaur from inner Mongolia.

@@ -1,2 +1,2 @@
 # Barapasaurus
-## Description: Probably the first of the giant sauropods.
+## Probably the first of the giant sauropods.

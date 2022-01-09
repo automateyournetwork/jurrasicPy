@@ -1,2 +1,2 @@
 # Nothronychus
-## Description: The first therizonosaur to be found outside Asia.
+## The first therizonosaur to be found outside Asia.

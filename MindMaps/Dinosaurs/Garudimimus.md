@@ -1,2 +1,2 @@
 # Garudimimus
-## Description: A relative slowpoke compared to other ornithomimids.
+## A relative slowpoke compared to other ornithomimids.

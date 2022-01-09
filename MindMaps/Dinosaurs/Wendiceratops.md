@@ -1,2 +1,2 @@
 # Wendiceratops
-## Description: This dinosaur honors Canadian fossil hunter Wendy Sloboda.
+## This dinosaur honors Canadian fossil hunter Wendy Sloboda.

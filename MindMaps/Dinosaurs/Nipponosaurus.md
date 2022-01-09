@@ -1,2 +1,2 @@
 # Nipponosaurus
-## Description: This hadrosaur was discovered on the island of Sakhalin.
+## This hadrosaur was discovered on the island of Sakhalin.

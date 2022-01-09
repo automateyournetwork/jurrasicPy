@@ -1,2 +1,2 @@
 # Silvisaurus
-## Description: This primitive nodosaur was discovered in Kansas.
+## This primitive nodosaur was discovered in Kansas.

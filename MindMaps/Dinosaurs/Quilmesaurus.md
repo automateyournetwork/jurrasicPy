@@ -1,2 +1,2 @@
 # Quilmesaurus
-## Description: This dinosaur was named after an indigenous South American tribe.
+## This dinosaur was named after an indigenous South American tribe.

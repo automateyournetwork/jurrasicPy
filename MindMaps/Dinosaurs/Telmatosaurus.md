@@ -1,2 +1,2 @@
 # Telmatosaurus
-## Description: This duck-billed dinosaur was discovered in Transylvania.
+## This duck-billed dinosaur was discovered in Transylvania.

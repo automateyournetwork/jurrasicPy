@@ -1,2 +1,2 @@
 # Anchiceratops
-## Description: This dinosaur had a distinctively shaped frill.
+## This dinosaur had a distinctively shaped frill.

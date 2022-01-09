@@ -1,2 +1,2 @@
 # Yi Qi
-## Description: This strange Jurassic dinosaur had bat-like wings.
+## This strange Jurassic dinosaur had bat-like wings.

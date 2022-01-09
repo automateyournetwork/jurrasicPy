@@ -1,2 +1,2 @@
 # Brachiosaurus
-## Description: This dinosaur was a giant, gentle, long-necked plant-eater.
+## This dinosaur was a giant, gentle, long-necked plant-eater.

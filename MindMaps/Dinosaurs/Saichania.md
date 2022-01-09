@@ -1,2 +1,2 @@
 # Saichania
-## Description: This ankylosaur's name is Chinese for "beautiful".
+## This ankylosaur's name is Chinese for "beautiful".

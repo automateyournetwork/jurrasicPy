@@ -1,2 +1,2 @@
 # Chindesaurus
-## Description: This early dinosaur was a close relative of Herrerasaurus.
+## This early dinosaur was a close relative of Herrerasaurus.

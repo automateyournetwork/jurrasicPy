@@ -1,2 +1,2 @@
 # Linhevenato
-## Description: r This troodont was recently discovered in Mongolia.
+## r This troodont was recently discovered in Mongolia.

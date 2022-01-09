@@ -1,2 +1,2 @@
 # Titanoceratops
-## Description: The biggest of all the horned, frilled dinosaurs.
+## The biggest of all the horned, frilled dinosaurs.

@@ -1,2 +1,2 @@
 # Triceratops
-## Description: The famous, three-horned, plant-eating dinosaur.
+## The famous, three-horned, plant-eating dinosaur.

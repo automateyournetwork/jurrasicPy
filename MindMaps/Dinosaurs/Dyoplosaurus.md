@@ -1,2 +1,2 @@
 # Dyoplosaurus
-## Description: This ankylosaur was once confused with Euoplocephalus.
+## This ankylosaur was once confused with Euoplocephalus.

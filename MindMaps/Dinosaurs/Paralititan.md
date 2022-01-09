@@ -1,2 +1,2 @@
 # Paralititan
-## Description: This huge sauropod was discovered recently in Egypt.
+## This huge sauropod was discovered recently in Egypt.

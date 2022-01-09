@@ -1,2 +1,2 @@
 # Siamotyrannus
-## Description: Despite its name, it wasn't a true tyrannosaur.
+## Despite its name, it wasn't a true tyrannosaur.

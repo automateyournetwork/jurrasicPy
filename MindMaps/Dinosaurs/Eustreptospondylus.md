@@ -1,2 +1,2 @@
 # Eustreptospondylus
-## Description: A close cousin of Megalosaurus.
+## A close cousin of Megalosaurus.

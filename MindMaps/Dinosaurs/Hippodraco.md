@@ -1,2 +1,2 @@
 # Hippodraco
-## Description: This "horse dragon" was recently discovered in Utah.
+## This "horse dragon" was recently discovered in Utah.

@@ -1,2 +1,2 @@
 # Megapnosaurus
-## Description: Its name is Greek for "big dead lizard".
+## Its name is Greek for "big dead lizard".

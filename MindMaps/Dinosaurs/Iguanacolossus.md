@@ -1,2 +1,2 @@
 # Iguanacolossus
-## Description: A brand-new ornithopod from North America.
+## A brand-new ornithopod from North America.

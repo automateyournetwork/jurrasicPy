@@ -1,2 +1,2 @@
 # Andesaurus
-## Description: This titanosaur rivaled Argentinosaurus in size.
+## This titanosaur rivaled Argentinosaurus in size.

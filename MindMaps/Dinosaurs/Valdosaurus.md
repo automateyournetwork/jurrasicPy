@@ -1,2 +1,2 @@
 # Valdosaurus
-## Description: This ornithopod was discovered on the Isle of Wight.
+## This ornithopod was discovered on the Isle of Wight.

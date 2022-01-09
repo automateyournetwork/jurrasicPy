@@ -1,2 +1,2 @@
 # Majungasaurus
-## Description: Fairly--or unfairly--known as the "cannibal dinosaur".
+## Fairly--or unfairly--known as the "cannibal dinosaur".

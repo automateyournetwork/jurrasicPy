@@ -1,2 +1,2 @@
 # Australovenator
-## Description: A recently discovered carnivore from Australia.
+## A recently discovered carnivore from Australia.

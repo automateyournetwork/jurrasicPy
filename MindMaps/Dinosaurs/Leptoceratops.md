@@ -1,2 +1,2 @@
 # Leptoceratops
-## Description: One of the most primitive of all ceratopsians.
+## One of the most primitive of all ceratopsians.

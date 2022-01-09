@@ -1,2 +1,2 @@
 # Datousaurus
-## Description: A medium-sized sauropod from middle Jurassic Asia.
+## A medium-sized sauropod from middle Jurassic Asia.

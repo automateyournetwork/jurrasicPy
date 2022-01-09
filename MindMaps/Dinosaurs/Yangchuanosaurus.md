@@ -1,2 +1,2 @@
 # Yangchuanosaurus
-## Description: A large theropod of late Jurassic Asia.
+## A large theropod of late Jurassic Asia.

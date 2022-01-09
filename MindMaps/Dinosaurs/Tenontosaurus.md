@@ -1,2 +1,2 @@
 # Tenontosaurus
-## Description: This long-tailed herbivore was hunted by Deinonychus.
+## This long-tailed herbivore was hunted by Deinonychus.

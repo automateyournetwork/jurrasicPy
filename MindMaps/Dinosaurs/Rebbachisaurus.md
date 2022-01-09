@@ -1,2 +1,2 @@
 # Rebbachisaurus
-## Description: A poorly understood sauropod from northern Africa.
+## A poorly understood sauropod from northern Africa.

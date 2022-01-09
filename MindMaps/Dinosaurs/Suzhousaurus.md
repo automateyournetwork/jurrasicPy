@@ -1,2 +1,2 @@
 # Suzhousaurus
-## Description: A large, early Cretaceous therizinosaur.
+## A large, early Cretaceous therizinosaur.

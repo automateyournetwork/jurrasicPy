@@ -1,2 +1,2 @@
 # Mojoceratops
-## Description: This ceratopsian had a heart-shaped frill.
+## This ceratopsian had a heart-shaped frill.

@@ -1,2 +1,2 @@
 # Hagryphus
-## Description: The largest North American oviraptor yet discovered.
+## The largest North American oviraptor yet discovered.

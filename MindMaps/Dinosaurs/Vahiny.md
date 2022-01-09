@@ -1,2 +1,2 @@
 # Vahiny
-## Description: Its name is Malagasy for "traveler".
+## Its name is Malagasy for "traveler".

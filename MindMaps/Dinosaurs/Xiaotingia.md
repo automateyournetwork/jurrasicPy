@@ -1,2 +1,2 @@
 # Xiaotingia
-## Description: This feathered dinosaur predated Archaeopteryx.
+## This feathered dinosaur predated Archaeopteryx.

@@ -1,2 +1,2 @@
 # Anabisetia
-## Description: The best-attested South American ornithopod.
+## The best-attested South American ornithopod.

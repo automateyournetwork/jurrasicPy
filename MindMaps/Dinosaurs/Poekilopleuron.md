@@ -1,2 +1,2 @@
 # Poekilopleuron
-## Description: It may (or may not) have been a species of Megalosaurus.
+## It may (or may not) have been a species of Megalosaurus.

@@ -1,2 +1,2 @@
 # Sinoceratops
-## Description: A rare ceratopsian from late Cretaceous China.
+## A rare ceratopsian from late Cretaceous China.

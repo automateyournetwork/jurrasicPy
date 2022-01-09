@@ -1,2 +1,2 @@
 # Ornithomimus
-## Description: This "bird mimic" resembled a modern ostrich.
+## This "bird mimic" resembled a modern ostrich.

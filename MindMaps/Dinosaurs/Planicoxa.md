@@ -1,2 +1,2 @@
 # Planicoxa
-## Description: A medium-sized iguanodont of early Cretaceous North America.
+## A medium-sized iguanodont of early Cretaceous North America.

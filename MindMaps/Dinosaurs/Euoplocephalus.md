@@ -1,2 +1,2 @@
 # Euoplocephalus
-## Description: Even this ankylosaur's eyelids were armored.
+## Even this ankylosaur's eyelids were armored.

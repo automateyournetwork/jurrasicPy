@@ -1,2 +1,2 @@
 # Agilisaurus
-## Description: This "agile lizard" was one of the earliest ornithopods.
+## This "agile lizard" was one of the earliest ornithopods.

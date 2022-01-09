@@ -1,2 +1,2 @@
 # Eoabelisaurus
-## Description: The earliest abelisaurid theropod yet identified.
+## The earliest abelisaurid theropod yet identified.

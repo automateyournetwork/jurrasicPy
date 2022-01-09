@@ -1,2 +1,2 @@
 # Zalmoxes
-## Description: A strange-looking ornithopod from Romania.
+## A strange-looking ornithopod from Romania.

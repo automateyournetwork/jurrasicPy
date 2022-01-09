@@ -1,2 +1,2 @@
 # Buitreraptor
-## Description: The oldest raptor ever discovered in South America.
+## The oldest raptor ever discovered in South America.

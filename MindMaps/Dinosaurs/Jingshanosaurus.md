@@ -1,2 +1,2 @@
 # Jingshanosaurus
-## Description: A close relative of Yunnanosaurus.
+## A close relative of Yunnanosaurus.

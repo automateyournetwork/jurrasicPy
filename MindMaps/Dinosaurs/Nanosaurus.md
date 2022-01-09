@@ -1,2 +1,2 @@
 # Nanosaurus
-## Description: This "tiny lizard" was named by Othniel C. Marsh.
+## This "tiny lizard" was named by Othniel C. Marsh.

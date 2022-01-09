@@ -1,2 +1,2 @@
 # Struthiosaurus
-## Description: The smallest nodosaur yet discovered.
+## The smallest nodosaur yet discovered.

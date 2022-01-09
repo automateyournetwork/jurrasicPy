@@ -1,2 +1,2 @@
 # Kosmoceratops
-## Description: This ceratopsian had a bizarre, downward-folding frill.
+## This ceratopsian had a bizarre, downward-folding frill.

@@ -1,2 +1,2 @@
 # Heterodontosaurus
-## Description: This "different-toothed" dinosaur was a dentist's nightmare.
+## This "different-toothed" dinosaur was a dentist's nightmare.

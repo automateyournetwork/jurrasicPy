@@ -1,2 +1,2 @@
 # Glacialisaurus
-## Description: This "frozen lizard" was a close relative of Lufengosaurus.
+## This "frozen lizard" was a close relative of Lufengosaurus.

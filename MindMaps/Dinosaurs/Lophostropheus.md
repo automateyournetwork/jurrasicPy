@@ -1,2 +1,2 @@
 # Lophostropheus
-## Description: This theropod lived near the Triassic/Jurassic boundary.
+## This theropod lived near the Triassic/Jurassic boundary.

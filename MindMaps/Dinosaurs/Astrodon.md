@@ -1,2 +1,2 @@
 # Astrodon
-## Description: The official state dinosaur of Maryland.
+## The official state dinosaur of Maryland.

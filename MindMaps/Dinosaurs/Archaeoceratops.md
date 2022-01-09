@@ -1,2 +1,2 @@
 # Archaeoceratops
-## Description: Possibly the smallest ceratopsian that ever lived.
+## Possibly the smallest ceratopsian that ever lived.

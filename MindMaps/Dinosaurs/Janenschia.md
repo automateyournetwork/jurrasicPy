@@ -1,2 +1,2 @@
 # Janenschia
-## Description: The earliest titanosaur in the fossil record.
+## The earliest titanosaur in the fossil record.

@@ -1,2 +1,2 @@
 # Gigantoraptor
-## Description: This huge oviraptorosaur weighed over two tons.
+## This huge oviraptorosaur weighed over two tons.

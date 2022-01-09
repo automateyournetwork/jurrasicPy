@@ -1,2 +1,2 @@
 # Chialingosaurus
-## Description: One of the earliest Asian stegosaurs.
+## One of the earliest Asian stegosaurs.

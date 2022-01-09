@@ -1,2 +1,2 @@
 # Agustinia
-## Description: A large, spiny-backed sauropod.
+## A large, spiny-backed sauropod.

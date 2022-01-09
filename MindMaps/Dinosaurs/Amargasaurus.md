@@ -1,2 +1,2 @@
 # Amargasaurus
-## Description: A bizarre, spined sauropod from South America.
+## A bizarre, spined sauropod from South America.

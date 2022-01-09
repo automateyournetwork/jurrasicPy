@@ -1,2 +1,2 @@
 # Adasaurus
-## Description: This raptor's hind claws were unusually small.
+## This raptor's hind claws were unusually small.

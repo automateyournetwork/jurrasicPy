@@ -1,2 +1,2 @@
 # Raptorex
-## Description: A pint-sized precursor of T. Rex.
+## A pint-sized precursor of T. Rex.

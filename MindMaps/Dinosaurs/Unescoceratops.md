@@ -1,2 +1,2 @@
 # Unescoceratops
-## Description: Named after the United Nation's UNESCO.
+## Named after the United Nation's UNESCO.

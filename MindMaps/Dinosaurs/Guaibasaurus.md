@@ -1,2 +1,2 @@
 # Guaibasaurus
-## Description: Was this early dinosaur a theropod or a prosauropod?
+## Was this early dinosaur a theropod or a prosauropod?

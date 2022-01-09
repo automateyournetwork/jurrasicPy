@@ -1,2 +1,2 @@
 # Archaeopteryx
-## Description: This ancient dino-bird was about the size of a modern pigeon.
+## This ancient dino-bird was about the size of a modern pigeon.

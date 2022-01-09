@@ -1,2 +1,2 @@
 # Dimetrodon
-## Description: This ancient synapsid had a huge sail on its back.
+## This ancient synapsid had a huge sail on its back.

@@ -1,2 +1,2 @@
 # Fruitadens
-## Description: One of the tiniest dinosaurs ever to live in North America.
+## One of the tiniest dinosaurs ever to live in North America.

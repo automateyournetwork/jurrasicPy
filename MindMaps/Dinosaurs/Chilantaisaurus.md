@@ -1,2 +1,2 @@
 # Chilantaisaurus
-## Description: This large theropod may have been ancestral to Spinosaurus.
+## This large theropod may have been ancestral to Spinosaurus.

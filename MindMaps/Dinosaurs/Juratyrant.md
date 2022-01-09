@@ -1,2 +1,2 @@
 # Juratyrant
-## Description: This early tyrannosaur was discovered in England.
+## This early tyrannosaur was discovered in England.

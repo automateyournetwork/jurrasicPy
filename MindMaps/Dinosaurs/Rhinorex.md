@@ -1,2 +1,2 @@
 # Rhinorex
-## Description: This duck-billed dinosaur had an unusually large nose.
+## This duck-billed dinosaur had an unusually large nose.

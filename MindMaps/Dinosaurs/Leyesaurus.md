@@ -1,2 +1,2 @@
 # Leyesaurus
-## Description: A newly discovered prosauropod from South America.
+## A newly discovered prosauropod from South America.

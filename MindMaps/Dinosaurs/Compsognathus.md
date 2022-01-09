@@ -1,2 +1,2 @@
 # Compsognathus
-## Description: This dinosaur was the size of a chicken, but much meaner.
+## This dinosaur was the size of a chicken, but much meaner.

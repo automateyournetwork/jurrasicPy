@@ -1,2 +1,2 @@
 # Limusaurus
-## Description: Was this toothless theropod a vegetarian?
+## Was this toothless theropod a vegetarian?

@@ -1,2 +1,2 @@
 # Jeholosaurus
-## Description: This ornithopod may have had an omnivorous diet.
+## This ornithopod may have had an omnivorous diet.

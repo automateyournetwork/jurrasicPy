@@ -1,2 +1,2 @@
 # Thecodontosaurus
-## Description: The first prosauropod ever to be discovered.
+## The first prosauropod ever to be discovered.

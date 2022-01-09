@@ -1,2 +1,2 @@
 # Nanshiungosaurus
-## Description: A bizarre therizinosaur from Asia.
+## A bizarre therizinosaur from Asia.

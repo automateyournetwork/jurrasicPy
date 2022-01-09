@@ -1,2 +1,2 @@
 # Ignavusaurus
-## Description: Its name means "cowardly lizard".
+## Its name means "cowardly lizard".

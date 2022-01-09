@@ -1,2 +1,2 @@
 # Kulindadromeus
-## Description: Why did this ornithopod dinosaur have feathers?
+## Why did this ornithopod dinosaur have feathers?

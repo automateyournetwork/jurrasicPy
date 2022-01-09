@@ -1,2 +1,2 @@
 # Nomingia
-## Description: This small dinosaur had a peacock-like tail.
+## This small dinosaur had a peacock-like tail.
